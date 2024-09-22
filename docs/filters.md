@@ -8,6 +8,9 @@ Loess themes are built with an optimized filtering user experience. Below is a q
 
 From the Shopify Admin, open the **Navigation** tab under **Online store**. From there, you will be able to use the **Shopify Search & Discovery** app to manage your filters:
 
+![image](https://github.com/user-attachments/assets/9d355082-82c5-4b9f-aa19-73d351462677)
+
+
 **2- Enable the filters in your store**
 
 Once you created your filters, you need to open the Theme Editor and enable the filters on your online store. To do so, go to the collection page, and edit the **Collection grid** settings. From there, you will be able to toggle *on* the **Enable filtering** setting.
@@ -16,11 +19,17 @@ Once you created your filters, you need to open the Theme Editor and enable the 
 
 You may have specific needs regarding your filters. For example, you may need your customers to use filters that do not correspond to product variants (product options), and need to have them organized into different categories. If this is the case, you can use product metafields instead (more info in the [metafield article](https://loess.ticksy.com/article/18634/)). Once you edit your filters with the **Search & Discovery** app to include the product metafields, each product metafield will output a **filter category** in the sidebar of your store. And then each value that has been created for those metafields will become a selectable **filter** within the categories. Please remember that filters within a category can be combined as an "or" (example: red **OR** green), but filters across categories as combined as an "and" (example "red" **AND** shirt). If you wish to make a category of filters that allow only one check box to be selected, the Shopify platform doesn't work that way, and this is not a feature themes can provide. Depending on your needs, a workaround may be to use separate collections for those, instead of relying on filters.
 
+![image](https://github.com/user-attachments/assets/0d9b8648-51e9-426b-94a2-d0fcb01769df)
+
+
 #### Color swatches
 
 If your filters include colors and you want those colors to be displayed as swatches instead of just labels and checkboxes, you need to go to the **Theme Settings** and open the **Color swatches** tab. In the **Configuration** input field, you need to type in the color *hex* code for each existing color filter (Hex codes are a 6 digits number, as per the screen shot below). There are plenty of online tool (such as [this page](https://htmlcolorcodes.com/color-picker/)) for you to find color hex codes you can copy and paste. The important thing to remember for this to work is to avoid typos and to follow the right syntax in the Theme Editor. For example:
 
-**Black:#000000Night blue:#000080**
+**Black:#000000<br>Night blue:#000080**
+
+![image](https://github.com/user-attachments/assets/14b93727-d607-420d-a314-53025a365932)
+
 
 #### Replacing color swatches with images
 
@@ -42,11 +51,17 @@ It can be useful to replace a color swatch by an image instead. This feature a
 
 **If your store is translated in multiple languages**, make sure you don't translate the content where your color swatches are named and associated to a hex code. For example, if you're using the Translate and Adapt app provided by Shopify, you might translate this content by mistake if you hit the "Auto-translate" button. This would create a conflict and your color swatches won't be outputted properly. You can easily fix this by going to the **General** tab under **Theme assets** and remove the translation in the **General: Color Swatch Configuration field**:
 
+![image](https://github.com/user-attachments/assets/44f00747-a124-4e7d-92bc-044258b458fe)
+
+
 ## Color swatches in the product variant selector
 
 You can also showcase the color swatches as variant selectors instead of color names in a product page. In order to do that, click the **Variant picker** block in the product section. Inside the block, select **Swatch** from the "Color" option type setting.
 
 > Keep in mind that you’ll need to update this setting for any product section that is added to the page, like for the Featured product section or Quick View popup.
+>
+> ![image](https://github.com/user-attachments/assets/8ad2ad5f-036d-4757-a4db-75b15e2c901c)
+
 
 #### Filter sidebar
 
