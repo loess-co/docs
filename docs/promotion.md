@@ -15,3 +15,5 @@ That section provides a dynamic grid that breaks the monotony on a page and catc
 **How to best use that section**
 
 When used on a repeated template (for example the product page template), you may want the section to showcase different content per product rather than showing the same text and images over and over. There are two ways to achieve that: You can either create different product page templates, or connect the column content from the section to metafields.
+
+![image](https://github.com/user-attachments/assets/f9a6dd27-a0cf-4b3b-9ea1-f9fb3b2bb805)
