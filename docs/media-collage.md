@@ -15,3 +15,5 @@ That section gives you great control over how you want your text content to be l
 **How to best use that section**
 
 It is a very versatile section. Good use cases are when the section is displayed at full width on top of a page for a big visual impact. Especially when the transparent header is enabled. It can also be particularly useful as a smaller promotional banner featuring rich imagery and colors.
+
+![image](https://github.com/user-attachments/assets/447a45dd-a3ff-4444-bb32-b89410fc7a0d)
