@@ -22,8 +22,13 @@ This can make a good hero section (first section at the top of the Home page) wh
 
 Some merchants are experiencing issues when using a video URL from Youtube in Shopify, and get an error message from the Theme Editor:
 
+![image](https://github.com/user-attachments/assets/35aaacf9-577d-45e7-96a0-31cc8fcadeb8)
+
+
 ## Video URL Fix
 
 When this happens, there's a simple fix that may work for you. We suggest that you try to change this the URL as follow: change the **shorts/** part for this **watch?v=**
 
 **For example:**
+
+![image](https://github.com/user-attachments/assets/d91f0568-ec4f-4aff-b887-7030c22f77cf)
