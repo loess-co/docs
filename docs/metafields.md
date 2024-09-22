@@ -2,9 +2,14 @@
 
 Loess themes are built to unlock the full potential of metafields. Below is a quick overview for you to have the basic understanding of that feature and to start exploring it in your online store. Metafields are a feature of the Shopify Platform. We recommend that you visit the [Shopify support docs](https://help.shopify.com/en/manual/metafields) if you need complete and detailed information about metafields. Shopify also provides a great [video](https://www.youtube.com/watch?v=M4nCHMLjYCE&t=449s) if you are more of a visual type:
 
+[![Alt text for the image](https://ticksy_attachments.s3.amazonaws.com/3780749011.png)](https://www.youtube.com/watch?v=M4nCHMLjYCE&t=449s)
+
 ### Understanding dynamic content
 
 A metafield is what allows your content to be “dynamic”. This means that the content in a section or a block featured in a template can change per page. The most practical example is when you’re adding sections on the product page template, and you need the content in those sections to change based on the product featured on the page. To know if a content (a heading, an image, a product…) can be connected to a metafield, look for this icon from the settings sidebar.
+
+![image](https://github.com/user-attachments/assets/5cc54182-e7da-4bc8-b075-ee00d6cf7484)
+
 
 There are a few simple steps to follow in order for you to create dynamic content with metafields:
 
