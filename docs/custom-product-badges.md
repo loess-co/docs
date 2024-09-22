@@ -13,3 +13,5 @@ Once the product metafield definition is created, it will be visible in the Shop
 **3- Customize the design of the badge**
 
 The theme will detect when custom badges are created and will display them on the store when applicable. As long as the metafield name is “Custom badge” and the Namespace and key is unchanged. To customize the color and style of the badge, open the Theme Editor, and go to the “Theme Settings” tab on the left. Open the “Product” tab and change the relevant settings under “Product badges”. These settings may be located on the right side of your screen if you're using a large display.
+
+![image](https://github.com/user-attachments/assets/f02267e2-e58f-4352-b661-c566fabf22a5)
