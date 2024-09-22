@@ -11,3 +11,5 @@ For an author image to be displayed when “Show author image” is enabled, you
 **Styling pro tips**
 
 It’s not always easy to customize your store when images are repurposed in different contexts because image cropping can sometimes cause problems. The blog post cover image is a good example of that. It is leveraged for article cards in the Blog posts section and template, where a square aspect ratio is often preferred. But it’s also supported in the Blog post template header, where the preferred aspect ratio might very well be more horizontal. Especially if you set up the collection header to be a full-width image background. If this is a problem for you, the theme provides a few "Article header" layouts that help achieve successful results with all types of image ratios.
+
+![image](https://github.com/user-attachments/assets/38355c60-8a94-4e40-a197-2093c83c2576)
