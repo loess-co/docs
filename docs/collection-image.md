@@ -1,5 +1,6 @@
 # Collection Image
 
+[![Alt text for the image](https://ticksy_attachments.s3.amazonaws.com/7061512107.png)](https://youtu.be/zUSAtWy3Sp8)
 _Video tutorial about collection images_
 
 To add a collection cover image, you must go to your Shopify Admin, and then from the left sidebar go to **Products > Collections.**
@@ -13,6 +14,9 @@ From there, you can assign each collection a **Collection image**. The theme w
 3.  Collection page (as a collection header)
 
 One common issue though is that an image that is perfect when used as an individual card (for instance with a portrait aspect ratio) may not provide the desired result when used as a collection header. In the example below, the head of the model is cut off and the cropping is awkward:
+
+![image](https://github.com/user-attachments/assets/88c70a4e-28b9-43ba-8ea8-4c2c06dc8dab)
+
 
 To overcome this issue, from the Theme Editor, you can **go into each collection and connect its header image to a dynamic source** using metafields. But first, your Collection metafields must be created following these steps:
 
