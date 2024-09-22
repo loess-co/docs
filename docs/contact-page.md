@@ -1,0 +1,5 @@
+# Contact Page
+
+The theme provides a built-in contact page template, which features a customizable contact form. At the minimum, the form is composed of an email and text input fields. By default, it also has a “Name” input field that can be customized or removed.
+
+To customize the Contact page in the Theme Editor, navigate to that template or use the dropdown in the middle of the top bar, under “Pages”. Customize the main layout of the form using the “Contact form” setting sidebar. That setting sidebar may be located on the right side of your screen if you're using a large display. The content of your contact form is created by adding “Text fields” or “Dropdown” blocks in the main sidebar on the left. Each of those blocks can be customized using their own setting sidebar, which may be located on the right side of your screen if you're using a large display. *Remember that blocks can be reordered using drag and drop in the sidebar, and deleted by clicking “Remove block” at the bottom of each block’s setting sidebar.*
