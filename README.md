@@ -2,7 +2,7 @@
 
 Dear valued customers,
 
-We regret to inform you that Loess is ceasing operations. We want to express our heartfelt gratitude for your support and trust throughout our journey.
+As mentioned in our August 2024 email, we regret to inform you that Loess is closing up shop. We want to express our heartfelt gratitude for your support and trust throughout our journey.
 
 ## Documentation Access
 
