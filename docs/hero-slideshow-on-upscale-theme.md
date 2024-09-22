@@ -11,3 +11,5 @@ The general look and feel of your section is customizable from the section setti
 - Image cropping can sometimes create unwanted results. Especially in a slideshow because every slide must keep the same height to prevent layout “jumps”. If cropping is a problem with your assets, one option that can be useful is the “Adapt to first image” slide height option.
 
 Remember that slides with lots of text have the opposite effect on your customers: they tend to ignore them altogether. Maintaining the same text across slides and applying the slide animation to the image only can be a good way to create visual impact without impoverishing the user experience. You can find an example of that on the [demo store here](https://themes.shopify.com/themes/upscale/styles/gem/preview?surface_inter_position=1&surface_intra_position=1&surface_type=all).
+
+![image](https://github.com/user-attachments/assets/9a23da15-31cb-4b70-bc29-df97ec747282)
