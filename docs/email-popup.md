@@ -9,7 +9,11 @@ Showing a popup when customers enter your online store can be an efficient way t
 To use the popup for collecting email addresses, add the “Email form” block in the main sidebar. To use that section for displaying text without an email form, add the “Text” block instead. Only one block can be added. To change the block type, you must first delete the one that’s been added. *Remember that blocks can be deleted by clicking “Remove block” at the bottom of each block’s setting sidebar.*
 
 ### Some popup examples
+![image](https://github.com/user-attachments/assets/3dd49ef5-fe98-470c-989c-d1505f7c8e9e)
+
 
 ### How to display the email icon in the header?
 
 The theme allows you to display a newsletter icon in the header of your store so that your users can easily access the sign up form popup at any time. To enable this icon, you must go to the popup settings and enable the corresponding check box:
+
+![image](https://github.com/user-attachments/assets/463b097f-b6a5-4d70-b6ce-5e553e66eec8)
