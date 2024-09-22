@@ -1,5 +1,6 @@
 # Language Selectors
 
+[![Alt text for the image](https://ticksy_attachments.s3.amazonaws.com/4378139496.png)](https://youtu.be/1x832cWZBGw)
 _Video tutorial about setting up multiple languages on your store_
 
 Loess themes allow you to enable a language selector at the top and/or bottom of your store. There are some simple steps to follow first:
