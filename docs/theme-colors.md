@@ -8,7 +8,13 @@ To customize the theme colors, click on **Theme settings** in the Theme Editor
 
 Start by deciding whether you want the main background to be white (or a light color), and the main text to be dark. This is the most common design on the web. The other option is what we refer to as “dark mode” (when the main background is dark and main text is light). Based on that decision, you can already customize the 2 first color swatches that are labeled as Default colors. Obviously, you will want those two colors to have sufficient contrast for the text on your store to be legible.
 
+![image](https://github.com/user-attachments/assets/5b798ffa-30c1-41ef-8b62-05599c6f1eb8)
+
+
 Next, all you need to do is choose 3 accent colors following the contrast guidelines. Once this is done and you customize the sections, you will often be provided with a setting to choose a color scheme that is based on those five main colors. Note that the **Accent 1** color is used for the buttons by default.
+
+![image](https://github.com/user-attachments/assets/f834ff61-2665-462d-a9ce-e2142efa2232)
+
 
 \*If it’s important for you to ensure your colors meet the [AA WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) standard for accessibility, the theme will provide accessible color schemes as long as the customized colors have accessible contrast according to the guidelines. Take into account a bigger contrast buffer if you set up your Soft background with a high opacity purcentage.
 
@@ -18,6 +24,9 @@ At the bottom of the color settings are optional gradients you can create. Each 
 
 For example, here’s what you do if you want your footer to be a gradient based on colors that are close to your Accent 3: Create an Accent 3 gradient, and then go in the footer section to set the color scheme to Accent 3. Note that every other section using the Accent 3 color scheme might render the gradient as well.
 
+![image](https://github.com/user-attachments/assets/bddd6a44-ddd7-436f-a6de-f151b4221343)
+
+
 ### Other color settings
 
 Some small elements of the themes are exceptionally  using a color that is not customizable with the main color settings. For instance, the custom product badges are customizable in the **Product cards** tab of the theme
@@ -25,3 +34,6 @@ Some small elements of the themes are exceptionally  using a color that is not 
 ### Color schemes explained
 
 Below is an example of how the main color palette translates into the various color schemes:
+
+![image](https://github.com/user-attachments/assets/ad451351-bb0c-4af2-acae-27395f40e544)
+
