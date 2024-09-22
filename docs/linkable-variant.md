@@ -26,6 +26,9 @@ Create a second product metafield that you can name, for example, "Color variant
 
 Once your 2 product metafields are set up, you should see them at the bottom of your product pages in the Shopify admin:
 
+![image](https://github.com/user-attachments/assets/7c87b16f-a2bb-4a90-bd85-b05bca42822a)
+
+
 1.  In the color metafield, enter the name of **the color swatch related to that specific product** page.
 
 2.  In the color variant metafield, select **all the products that qualify as a color variant of that product**.
@@ -34,9 +37,15 @@ Once your 2 product metafields are set up, you should see them at the bottom of 
 
 Here's an example of the proper set up:
 
+![image](https://github.com/user-attachments/assets/3cbf7a7b-135d-4e67-926a-7e055b1ba872)
+
+
 ## 5- Customize your store's product page
 
 Finally, go to the Theme Editor and edit the Product page. In the left sidebar, find the Product information. Click **Add block**, and select **Linkable variant**. In the block's settings, connect the products to a dynamic source and select the "Color variants" metafield that you previously created.
+
+![image](https://github.com/user-attachments/assets/069861ef-645b-4ab2-b936-2df4a4e1e5a5)
+
 
 ### Important notes
 
